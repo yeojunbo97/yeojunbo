@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Classes</title>
+
+<style>
+body {background-color: rgb(110,130,110);
+}
+h1   {color: rgb(110,50,50);
+border: 7px solid black; 
+font-family:courier;
+font-size:50px
+}
+p  {
+font-family:georgia;
+font-size:30px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  align:center
+
+}
+
+td {
+  border: 4px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+  font-size: 30px
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+
+</head>
+<body>
+<ul>
+<li><a href="Computing main.html">Home</a> </li>
+<li><a href="Computing 2.html">Classes</a> </li>
+<li><a href="Computing 3.html">Contact</a> </li>
+</ul>
+<h1 style="text-align:center;">Classes</h1>
+
+<table>
+<tr>
+<td> <b>Introductory classes to Calisthenics exercise</b><br>
+
+ -Pull ups <br>
+ -Dips <br>
+ -Push ups <br>
+-Core exercises <br> 
+</td> 
+<td> <b>Handstand and mobility classes</b> <br>
+Teaches you the proper techniques on how to execute a handstand and <br>teaches progressive exercises towards achieving a handstand.<br>Improves core strength and joint mobility
+ </td> 
+</tr>
+<tr>
+<td> <b>HIIT sessions</b> <br>
+Intense workout session targeted at individuals who want to lose weight.<br> Workout 
+session incorporates a good mix of cardiovascular and strength training.<br> <i>Be prepared to sweat alot</i>
+</td> 
+<td><b>Calisthenics 1 </b><br>
+Reinforces the foundation that is built up in the introductory classes and <br> guides individuals to tackle more advanced bodyweight movements such as levers and muscle-ups
+</td> 
+</tr>
+</table>
+<hr><hr>
+
+<h1 style="text-align:center;">Schedule</h1>
+<img src="SCA.jpg" alt="SCA Schedule">
+<p style="text-align:center;color:powderblue">
+Head over to their official website for more information!!<br><br>
+<a href="http://singaporecalisthenics.com/#/home">
+<img src="logo.jpg" alt="SCA website">
+</a>
+<p>
+</body>
+</html>
